@@ -50,7 +50,7 @@ File Version: 2020.2.5200.12394 \
 Date first seen: April 2020 
 
 Sha1: d130bd75645c2433f88ac03e73395fba172ef676 \
-Sha256: ce77d116a074dab7a22a0fd4f2c1ab475f16eec42e1ded3c0bOaa8211fe858d6 \
+Sha256: ce77d116a074dab7a22a0fd4f2c1ab475f16eec42e1ded3c0b0aa8211fe858d6 \
 Sha1: d130bd75645c2433f88ac03e73395fba172ef676 \
 File Size: 1028072 bytes \
 File Version: 2020.2.5300.12432\
